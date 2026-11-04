@@ -1,5 +1,3 @@
-## Запуск проекта
-
 ### Backend
 cd Backend
 python -m venv venv
